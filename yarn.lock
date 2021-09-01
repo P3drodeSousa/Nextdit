@@ -1457,10 +1457,10 @@
   dependencies:
     "@babel/runtime" "^7.4.4"
 
-"@material-ui/lab@*":
-  version "4.11.3-deprecations.1"
-  resolved "https://registry.yarnpkg.com/@material-ui/lab/-/lab-4.11.3-deprecations.1.tgz#3a43f17be8fc18717be70da31c44a534a57c439c"
-  integrity sha512-mP53Wh3jKzPcZbvnY+hLWQmfEq8JmUP1SrR1r8S+jxMymC20/SLxMVVLb4h4pmZ0+ga232JegG0XypQ/r9I5TA==
+"@material-ui/lab@^4.0.0-alpha.60":
+  version "4.0.0-alpha.60"
+  resolved "https://registry.yarnpkg.com/@material-ui/lab/-/lab-4.0.0-alpha.60.tgz#5ad203aed5a8569b0f1753945a21a05efa2234d2"
+  integrity sha512-fadlYsPJF+0fx2lRuyqAuJj7hAS1tLDdIEEdov5jlrpb5pp4b+mRDUqQTUxi4inRZHS1bEXpU8QWUhO6xX88aA==
   dependencies:
     "@babel/runtime" "^7.4.4"
     "@material-ui/utils" "^4.11.2"
