@@ -1,7 +1,7 @@
 # Nextdit
 A reddit clone built with amplify.
 
-##Features
+## Features
  - User Authentification
  - Vote system
  - Create / Comment Posts
